@@ -6,7 +6,7 @@
 :source-highlighter: prettify
 :tags: javascript,ecmasscript,js
 
-# This repo is our first proof of concept and is now DEPRECATED, please check out https://github.com/nithin1527/funk-geo-visualizer[funk-geo-visualizer] repo for our new and better implementation :)
+# This repo is our first proof of concept and is superseded by improved version https://github.com/nithin1527/funk-geo-visualizer[funk-geo-visualizer]:)
 # Dynamic Voronoi Diagrams in the Hilbert Metric
 
 A dynamic visualization software for Voronoi diagrams in the Hilbert metric on user specified convex polygons.
